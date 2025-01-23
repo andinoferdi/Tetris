@@ -1,7 +1,8 @@
-
 # Tetris Master
 
 Welcome to **Tetris Master**, a modern and stylish take on the classic Tetris game. This project demonstrates clean and modular JavaScript development combined with elegant CSS design to create a responsive and interactive gaming experience.
+
+![Tetris Web](./img.png)
 
 ## Features
 
@@ -37,16 +38,19 @@ project/
 ## Key Highlights
 
 ### Gameplay Features
+
 - **Level Progression**: Automatically advances every 10 cleared lines.
 - **Score Tracking**: Earn points for every cleared line.
 - **Dynamic Speed**: Game speed increases with higher levels.
 
 ### Visual Features
+
 - **Canvas Glow Effect**: Adds a glowing border around the game canvas when the game is active.
 - **Button Animations**: Provides feedback on button clicks.
 - **Fade and Scale Animations**: Highlights updates to game info (e.g., level, score).
 
 ### Modular Design
+
 - Separate files for HTML, CSS, and JavaScript to ensure maintainability and scalability.
 
 ## Demo
@@ -56,4 +60,5 @@ Experience the game by opening the `index.html` file in your browser. Play and e
 ---
 
 ### License
+
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
