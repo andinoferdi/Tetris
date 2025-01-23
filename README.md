@@ -55,12 +55,5 @@ Experience the game by opening the `index.html` file in your browser. Play and e
 
 ---
 
-### Credits
-- **Developer**: [Your Name]
-- **Technologies Used**: HTML5, CSS3, JavaScript
-- **Year**: 2025
-
----
-
 ### License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
